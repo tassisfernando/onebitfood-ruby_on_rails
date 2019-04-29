@@ -16,4 +16,12 @@ class Restaurant < ApplicationRecord
 
   has_one_attached :image
 
+  #Configurando a geolocalização, a partir do geocode 
+  geocoded_by :address
+  
+  after_validation :geocode
+  
+  def address
+    [street, number, city, state].compact.join(', ')
+  end
 end
