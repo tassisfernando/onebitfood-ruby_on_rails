@@ -1363,5 +1363,19 @@
             "file:///home/tassis_fernando/CodeProjects/Ruby_on_Rails_Projects/onebitfood"
         ],
         "files2": []
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/tassis_fernando/CodeProjects/Ruby_on_Rails_Projects/onebitfood",
+            "backupPath": "/home/tassis_fernando/CodeProjects/Ruby_on_Rails_Projects/onebitfood/~/.vscode-root/Backups/c6e7afe9d8fd8e9cc57094719e1cfa21",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 55,
+                "width": 1920,
+                "height": 1025
+            }
+        },
+        "openedWindows": []
     }
 }
